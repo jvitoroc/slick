@@ -82,7 +82,7 @@
 }
 [dir='rtl'] .slick-slide
 {
-    float: right;
+    float: left;
 }
 .slick-slide img
 {
